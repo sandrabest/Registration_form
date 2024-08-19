@@ -1,0 +1,218 @@
+.body{
+  background-color:whitesmoke;
+}
+.ParentDiv{
+  height: 1200px;
+  width: 900px;
+  margin: 50px 20px 20px 500px;
+  border-radius: 10px 10px 10px 10px;
+  padding: 30px 0px 0px 0px;
+  border-width: medium;
+  box-shadow: aliceblue;
+}
+
+.formall{
+  width: 390px;
+  height: 50px;
+  margin: 10px 0px 0px 0px;
+ 
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow:gray;
+}
+
+.formall2{
+  width: 830px;
+  height: 30px;
+  margin:10ox 0px 10px 10px;
+  padding:10px 0px 10px 10px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow:gray;
+}
+
+.formall3{
+  width: 800px;
+  height: 50px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  padding: 0px 10px 0px 10px;
+  align-items: center;
+  box-shadow: gray;
+}
+
+
+.DIV1{
+  background-color:white;
+  height: 80px;
+  width: 850px;
+  margin-top: 50px;
+  padding:12px 0px 10px 50px ;
+  display: flex;
+  justify-content:space-evenly;
+
+
+}
+.DIV1image{
+background-color: aquamarine;
+width:100px ;
+height: 0px;
+border-radius: 5px 5px 5px 5px;
+}
+
+.DIV1image img{
+  width: 100%;
+  height:70px;
+  object-fit: cover;
+  border-radius: 5px 5px 5px 5px;
+ 
+
+
+}
+
+.DIV1text{
+  background-color:white;
+  width: 650px;
+  height: 60px;
+  font-size: 20px;
+  padding: 10px 0px 0px 0px ;
+ 
+  
+
+}
+
+
+.DIV2{
+  background-color:white;
+  height: 80px;
+  width: px;
+  margin: 40px 0px 0px 0px;
+
+}
+
+.DIV2para_style{
+  font-size:25px ;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  font-weight: bold;
+  margin: 10px 10px 10px 60px;
+
+
+}
+
+.DIV2span_style{
+  font-size: 15px;
+  font-family:Arial, Helvetica, sans-serif ;
+  color: rgb(75, 67, 67);
+
+}
+
+
+.DIV3{
+  height: 80px;
+  width:900px ;
+  background-color: cyan;
+  margin: 30px 0px 10px 0px;
+  display: flex;
+  justify-content: space-evenly;
+  background-color:white
+}
+.DIV3compy{
+  height: 20x;
+  width:380px ;
+  background-color:white;
+
+}
+
+.DIVdesigner{
+  height: ;
+  width:420px ;
+  background-color:white;
+
+}
+
+.DIV3span{
+  color: red;
+
+}
+
+.DIV4{
+  height: 80px;
+  width:900px ;
+  background-color: cyan;
+  margin: 30px 0px 10px 0px;
+  justify-content: center;
+  align-items: center;
+  background-color:white;
+}
+
+.DIV4compy{
+  height: 20x;
+  width:380px ;
+  background-color:white;
+  margin: 0px 30px;
+
+}
+
+.formall4{
+  border-radius: 8px 8px 8px 8px;
+  width: 800px;
+  height: 30px;
+  padding: 10px 10px 10px 10px;
+  margin: 0px 30px ;
+  border-color: gray;
+  box-shadow: gray;
+}
+
+.DIV5compy{
+  height: 20x;
+  width:380px ;
+  background-color:white;
+  margin: 0px 30px;
+
+}
+
+.formall5{
+  border-radius: 8px 8px 8px 8px;
+  width: 800px;
+  height: 30px;
+  padding: 10px 10px 10px 10px;
+
+  box-shadow: gray;
+  margin: 10px 0px 0px 0px;
+}
+
+
+.DIV6{
+  height: 500px;
+  width:900px ;
+  margin: 30px 20px 10px 0px;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: white;
+ 
+}
+
+.formselect{
+  width: 390px;
+  height: 50px;
+  margin: 10px 0px 0px 0px;
+  padding:40px 0px 10px 10px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: rgb(130, 127, 127);
+  color: gray;
+
+}
+
+.subbutton{
+  width: 390px;
+  height: 60px;
+  margin: 40px 0px 0px 0px;
+  background: rgb(70, 130, 180);
+  border-radius: 8px;
+  box-shadow:gray;
+  font-size: 21px;
+  color: white;
+  font-weight: bold;
+
+}
